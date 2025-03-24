@@ -42,7 +42,7 @@ Training: Train with early stopping, batch size (e.g., 32), and suitable epochs.
 ## PROGRAM
 
 ### Name: Prakash R
-### Register Number: 212222540074
+### Register Number: 212222240074
 
 ```python
 class PeopleClassifier(nn.Module):
