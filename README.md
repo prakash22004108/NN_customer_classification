@@ -41,8 +41,8 @@ Model Compilation: Use categorical crossentropy loss, Adam optimizer, and track 
 Training: Train with early stopping, batch size (e.g., 32), and suitable epochs.
 ## PROGRAM
 
-### Name: AALIYA FATHIMA M
-### Register Number: 212223230001
+### Name: Prakash R
+### Register Number: 212222540074
 
 ```python
 class PeopleClassifier(nn.Module):
